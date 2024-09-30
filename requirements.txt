@@ -1,0 +1,11 @@
+django
+python-decouple
+djangorestframework
+gunicorn
+psycopg2-binary
+Pillow
+django-modeltranslation
+drf-yasg
+django-cors-headers
+django-filter
+djangorestframework-simplejwt
